@@ -1,6 +1,6 @@
 # CV de Francisco Jose Flores
 
-![cv profecsional](assets/Captura de pantalla 2025-07-16 - 15.14.09.png)
+![cv profecsional](assets/Captura.png)
 
 Este es mi CV profesional como desarrollador frontend junior. Incluye estructura semántica, diseño responsivo y optimización SEO.
 
